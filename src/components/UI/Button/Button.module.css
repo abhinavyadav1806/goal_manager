@@ -2,10 +2,10 @@
   width: 100%;
   font: inherit;
   padding: 0.5rem 1.5rem;
-  border: 1px solid #262626;
+  border: 1px solid #866969;
   color: white;
-  background: #262626;
-  box-shadow: 0 0 4px rgba(0, 0, 0, 0.26);
+  background: #8a6161;
+  box-shadow: 0 0 4px rgb(118, 80, 80);
   cursor: pointer;
 }
 
